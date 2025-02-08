@@ -1,7 +1,7 @@
 ## check the strength of the password ##
 ########### Code Block ####################
 
-def check_password_strength(password):                      # Defin the fucntion name 
+def check_password_strength(password):                      # Define the fucntion name 
     # Checking length of password   
     if len(password) < 8:                                   
         print("password leanght is too short, minimum requried 8 charatctor")                                   
