@@ -54,7 +54,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ``` Enter the password here: Password123
 Reason: Special character is missing.
-password isn't meeting all criteria. Check the reason and create a valid password. ```
+password isn't meeting all criteria. Check the reason and create a valid password.
 
 
 ![image](https://github.com/user-attachments/assets/f9e46bad-a02e-498f-b138-c9e7bee11e7a)
