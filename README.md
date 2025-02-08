@@ -20,12 +20,11 @@ This is a simple Python script to validate the strength of a password. It checks
     ii.  At least one lowercase letter
     iii. At least one numeric digit
     iv.  At least one special character
-Provides feedback on missing criteria
+3. Provides feedback on missing criteria
 
 ## Prerequisites
 
-Python 3.x   
-To install python refer the link https://wiki.python.org/moin/BeginnersGuide/Download
+1. Python 3.x   To install python refer the link https://wiki.python.org/moin/BeginnersGuide/Download
 
 ## Configuration
 
@@ -43,8 +42,8 @@ No additional configuration is required. Modify the script if you wish to change
 
 ## Troubleshooting
 
-If the script does not run, ensure Python is installed.
-If an error occurs, verify that the script is executed in a Python 3 environment.
+1. If the script does not run, ensure Python is installed.
+2. If an error occurs, verify that the script is executed in a Python 3 environment.
 
 ## Contribution
 
@@ -52,11 +51,11 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## Example
 
-``` Enter the password here: Password123
+Enter the password here: Password123
 Reason: Special character is missing.
 password isn't meeting all criteria. Check the reason and create a valid password.
 
-
+## 
 ![image](https://github.com/user-attachments/assets/f9e46bad-a02e-498f-b138-c9e7bee11e7a)
 
 
