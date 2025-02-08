@@ -16,10 +16,10 @@ This is a simple Python script to validate the strength of a password. It checks
 
 1. Checks if the password is at least 8 characters long
 2. Ensures the presence of:
-    i.   At least one uppercase letter
-    ii.  At least one lowercase letter
-    iii. At least one numeric digit
-    iv.  At least one special character
+    1. At least one uppercase letter
+    2. At least one lowercase letter
+    3. At least one numeric digit
+    4. At least one special character
 3. Provides feedback on missing criteria
 
 ## Prerequisites
