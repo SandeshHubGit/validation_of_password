@@ -4,22 +4,22 @@
 
 This is a simple Python script to validate the strength of a password. It checks for essential security requirements such as minimum length, uppercase and lowercase letters, digits, and special characters.
 
-### Table of Contents
-Features
-Prerequisites
-Configuration
-Usage
-Contribution
-Example
+## Table of Contents
+1. Features
+2. Prerequisites
+3. Configuration
+4. Usage
+5. Contribution
+6. Example
 
-### Features
+## Features
 
-Checks if the password is at least 8 characters long
-Ensures the presence of:
-  At least one uppercase letter
-  At least one lowercase letter
-  At least one numeric digit
-  At least one special character
+1. Checks if the password is at least 8 characters long
+2. Ensures the presence of:
+    i.   At least one uppercase letter
+    ii.  At least one lowercase letter
+    iii. At least one numeric digit
+    iv.  At least one special character
 Provides feedback on missing criteria
 
 ## Prerequisites
@@ -33,13 +33,13 @@ No additional configuration is required. Modify the script if you wish to change
 
 ## Usage
 
-Clone the repository:
+1. Clone the repository:
 ```git clone <repository_url>```
-Navigate to the project directory:
+2. Navigate to the project directory:
 ```cd <repository_name>```
-Run the script:
+3. Run the script:
 ```python strong_passwords_check.py```
-Enter a password when prompted, and the script will evaluate its strength.
+4. Enter a password when prompted, and the script will evaluate its strength.
 
 ## Troubleshooting
 
